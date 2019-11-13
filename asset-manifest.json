@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b100e6da.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.5cc818ff.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.5cc818ff.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.05b8f502.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.5830dd8e.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.5830dd8e.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.548d4952.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.548d4952.js.map",
-    "static/js/2.99bf0211.chunk.js": "/react-gh-pages/static/js/2.99bf0211.chunk.js",
-    "static/js/2.99bf0211.chunk.js.map": "/react-gh-pages/static/js/2.99bf0211.chunk.js.map",
+    "static/js/2.aff73fcd.chunk.js": "/react-gh-pages/static/js/2.aff73fcd.chunk.js",
+    "static/js/2.aff73fcd.chunk.js.map": "/react-gh-pages/static/js/2.aff73fcd.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.ac2cc6080edf0f29be06df9e18f541e3.js": "/react-gh-pages/precache-manifest.ac2cc6080edf0f29be06df9e18f541e3.js",
+    "precache-manifest.433b7de9032103fd0dfc9ee15d7ad234.js": "/react-gh-pages/precache-manifest.433b7de9032103fd0dfc9ee15d7ad234.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/react-gh-pages/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.25bf045c.svg"
+    "static/css/main.05b8f502.chunk.css.map": "/react-gh-pages/static/css/main.05b8f502.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.548d4952.js",
-    "static/js/2.99bf0211.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.5cc818ff.chunk.js"
+    "static/js/2.aff73fcd.chunk.js",
+    "static/css/main.05b8f502.chunk.css",
+    "static/js/main.5830dd8e.chunk.js"
   ]
 }
